@@ -1,0 +1,130 @@
+Responsible AI in the Public Sector
+AI has the potential to transform the public sector, 
+from improving healthcare and education to 
+enhancing public safety and transportation. The 
+growing interest in generative AI is clear. However, with 
+this ‘great power comes great responsibility’, and it is 
+therefore essential that AI is developed and deployed 
+responsibly. Microsoft has taken a principled role in 
+this area with the development of comprehensive AI 
+responsibility policies and tools, grounded on work 
+we have been doing for many years.
+The responsible use of AI is, of course, a topic which 
+public sector organizations around the world have 
+actively addressed in recent years. Through leading 
+discussions, developing approaches and strategies, 
+and implementing these in their operations, the use 
+of AI to responsibly deliver more effective and inclusive 
+public services is on the rise.
+Learn more about Governing AI
+At Microsoft, we are committed to making sure AI 
+systems are developed responsibly and in a way that 
+is worthy of people’s trust. We drive this commitment 
+according to six key principles which align closely 
+with public sector priorities and the fundamental 
+principles set out in Article 5 of the GDPR:
+• Fairness: AI systems should be designed 
+to treat all individuals fairly, without bias or 
+discrimination.
+• Reliability and safety: AI systems should be 
+reliable and safe, with built-in mechanisms to 
+prevent errors and minimize harm.
+• Accountability: The creators of AI tools and 
+the developers who leverage them should be 
+accountable for their systems.
+• Privacy and security: AI systems should 
+respect individuals’ privacy and data security.
+• Inclusiveness: AI systems should be 
+designed to be accessible and usable 
+by everyone, including individuals with 
+disabilities.
+• Transparency: AI systems should be 
+transparent and explainable, with clear 
+documentation of their functionality and 
+decision-making processes.
+Part 1: 
+Responsibly using AI in the Public Sector -
+Microsoft’s AI journey and leveraging our tools and resources
+These principles can be used by public sector 
+organizations to evaluate AI systems and processes 
+in use or under consideration in the context of the 
+GDPR, as explored in Part 2 below. Within Microsoft, 
+we have established our Office of Responsible AI, 
+which sets AI governance policies for the entire 
+company, advises our senior leadership team on AI 
+issues, enables engineering and compliance teams 
+across the company to build according to responsible 
+AI principles, all while ensuring that as a corporation 
+we are continuing to examine and improve our ethical 
+stance as new capabilities and challenges arise. 
+Learn more about Microsoft’s principles and approach 
+to Responsible AI
+In June 2022, we published our internal Microsoft 
+Responsible AI Standard for product development to 
+share what we’ve learned so far in the form of concrete 
+and actionable guidelines. We believe that industry, 
+academia, civil society, and government need to 
+collaborate to advance the state-of-the-art and learn 
+from one another.
+Public sector organizations should develop and be 
+governed by responsible AI strategies, and these 
+strategies should incorporate principles, practices, 
+tools, and governance to enable those across the 
+organization to assess, adopt, and manage their use 
+of AI.
+When potential risks are understood and carefully 
+managed, the public sector can realize the promise 
+of AI. Forward-looking leaders will ensure that their 
+commitment to responsible AI is not an afterthought 
+but is baked into their organization’s innovation 
+pipeline. This allows the public sector to harness the 
+power of AI to improve the services they provide and 
+benefit society as a whole. You can find several exciting 
+examples of how to use generative AI in the public 
+sector in Appendix 1.
+7
+Tools, Commitments, and Resources 
+to Assist your AI Deployment
+To support our customers and empower their 
+compliant use of AI, Microsoft offers a range of 
+solutions, tooling, and resources to assist in their 
+AI deployment. From comprehensive transparency 
+documentation to a suite of tools for data governance, 
+risk, and compliance assessment. Dedicated programs 
+such as our industry-leading AI Assurance Program
+and AI Customer Commitments further broaden the 
+support we offer public sector customers in addressing 
+their needs. 
+Microsoft’s AI Assurance Program helps customers 
+ensure that the AI applications they deploy on our 
+platforms meet the legal and regulatory requirements 
+for responsible AI. The program includes support for 
+regulatory engagement and advocacy, risk framework 
+implementation and the creation of a customer 
+council.
+For dec
+
+
+
+
+# Security Policy
+
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+## Reporting a Vulnerability
+
+Use this section to tell people how to report a vulnerability.
+
+Tell them where to go, how often they can expect to get an update on a
+reported vulnerability, what to expect if the vulnerability is accepted or
+declined, etc.
